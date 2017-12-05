@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+b{
+	font-size: 19px;
+}
+div.result{
+	position: relative;
+	float : none;
+	border: 1px solid #1E0000;
+    border-radius: 3px;
+	width: 500px;
+	height: 400px;
+}

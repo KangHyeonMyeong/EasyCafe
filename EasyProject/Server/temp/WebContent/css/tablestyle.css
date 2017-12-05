@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+table{
+	border: 1px solid black;
+	position: absolute;
+	width: 500px;
+	height: 400px;
+	padding: 30px;
+}
+th, td{
+	margin: auto;
+	padding: 1px;
+	padding: 0px;
+	text-align: center;
+}
+td.table{
+	cursor: pointer;
+	background: #c0c0c0; 
+	border-radius: 8px;
+	text-align: center;
+}

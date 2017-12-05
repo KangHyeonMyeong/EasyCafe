@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+#frame {
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#header {
+	width:1200px;
+	height:80px;
+	margin: 0 auto;
+}
+
+#logo {
+	color: white;
+	width:80px;
+	height:80px;
+	float: left;
+}
+.navTop {
+	height: 26px;
+	width: 320px;
+	margin: 0;
+	padding: 0;
+}
+
+.navTop li {
+	display:inline;
+	list-style: none;
+	
+	font-family: Helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+.navTop a, a:link, a:visited {
+	color: #372f2b;
+    text-decoration: none;
+}
+#menu {
+	float: right;
+}

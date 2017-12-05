@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104580608542",
+    "firebase_url": "https://easycafe-a25bb.firebaseio.com",
+    "project_id": "easycafe-a25bb",
+    "storage_bucket": "easycafe-a25bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104580608542:android:cd96260aaa4e0ba3",
+        "android_client_info": {
+          "package_name": "com.example.we25.easycafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104580608542-pbpr19duacqhf0dqg4209jue1rdk29lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yrvXsMdrF3hSlvAPq9piJbD18IMWMG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

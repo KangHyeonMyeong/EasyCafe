@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+#frame {
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.simple_banner_wrap {
+	clear:both;
+	background-color: yellow;
+	width: 1200px;
+	height: 600px;
+}
+
+#container {
+	width: 100%;
+	height:250px;
+	text-decoration: none;
+}
+
+#notice {
+	flex:initial;
+	width:500px;
+	min-width:200px;
+	height:250px;
+	float:left;
+	font-size: 20px;
+	color: red;
+}
+
+#location {
+	flex:initial;
+	width:700px;
+	min-width:200px;
+	height:250px;
+	float:right;
+}
+#map {
+	background-color: black;
+	width: 700px;
+	height: 250px;
+}
+
+#footer {
+	background-color: gray;
+	clear:both;
+	height: 40px;
+	width: 100%;
+}

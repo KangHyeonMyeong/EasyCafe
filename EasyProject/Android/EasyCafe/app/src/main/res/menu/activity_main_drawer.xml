@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/infomation"
+            android:icon="@drawable/ic_mood_black_24dp"
+            android:title="회원정보" />
+        <item
+            android:id="@+id/cafe_Info"
+            android:icon="@drawable/ic_local_cafe_black_24dp"
+            android:title="매장정보" />
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="메뉴" />
+        <item
+            android:id="@+id/order_list"
+            android:icon="@drawable/ic_local_cafe_black_24dp"
+            android:title="주문내역" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_brightness_low_black_24dp"
+            android:title="설정" />
+        <item
+            android:id="@+id/sensor"
+            android:title="센서설정"
+            android:icon="@drawable/ic_menu_manage"/>
+
+
+    </group>
+
+</menu>
