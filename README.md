@@ -3,7 +3,7 @@ This is my first practice project.
 
 Android App needs to change HTTP Request URL.
 
-Server use 'ApacheTocat 8.5'.
+Server use 'ApacheTomcat 8.5'.
 
 Arduino Device is MEGA.
 
